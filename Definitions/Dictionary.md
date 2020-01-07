@@ -1,8 +1,10 @@
 <p>
 	
 - **Clients** – A customer or client of Glasswall.
-- **Decision** – This is where the required stakeholder can provide context and then vote on a chosen decision. A decision can be linked to any other issue type. 
-THIS NEEDS FLESHING OUT – more clarity
+- **Decision** – This is where the required stakeholder can provide context and then vote on a chosen decision. It is quite a generic issue type at the moment and can be linked to any other issue type. E.G. An Outcome or a Key Result.
+I think the people voting on the decision would be the stakeholders and maybe some of the squad contributors. Depending on the context, what the decision is about and what it is attached to. 
+Its recorded on the decision issue itself in Jira. Theres no specific format for that yet, people can vote by comment or editing the description. As long as their decision is attached to their name.
+They could either be discussed in a meeting, teams call, or just by comments on the decision issue.
 - **Guild** - A lightweight community of interest where people across the whole company gather and share knowledge of a specific area. Anyone can join or leave a Guild at any time. E.G: ‘React’, ‘Performance’
 - **IT System** – A system or platform which staff use and have accounts on. These systems are owned and managed by our IT team. E.G: ‘Jira’, ‘GitHub’
 - **Key Result** - Measurable deliveries. An outcome would be broken down into specific and measurable key results.
