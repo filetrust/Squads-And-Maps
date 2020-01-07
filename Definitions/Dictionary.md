@@ -59,9 +59,3 @@ The beneficiary of the Outcome that is being worked on by the Squad
 - Providing requirements clarification when requested
 - Providing feedback on delivered Outcomes when requested
 
-**Assignee**
-A dynamic role that can be assigned to an individual who has a responsbility to execute that is blocking progress towards completion of the Outcome.
-
-*Responsibilities*
-- Completing the assigned responsibility as a matter of priority
-
