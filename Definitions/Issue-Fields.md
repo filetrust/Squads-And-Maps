@@ -10,3 +10,7 @@ E.G. An Outcome with the status ‘Needs more details’ – Could be assigned t
 
 **Reporter**
 The person who created the item. This has no other significance in our workflow and be hidden for most Issue Types.
+
+**Labels**
+Labels will be used to tag an issue to indicate a need for editingor refinement on an Issue. Examples of existing labels are:
+'needs-description', 'needs-outcomes', needs-keyresults','to-delete', 'needs-stakesholders', 'needs-customers'.
