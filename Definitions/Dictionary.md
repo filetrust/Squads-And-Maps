@@ -1,3 +1,5 @@
+<p>
+	
 - **Clients** – A customer or client of Glasswall.
 - **Decision** – This is where the required stakeholder can provide context and then vote on a chosen decision. A decision can be linked to any other issue type. 
 THIS NEEDS FLESHING OUT – more clarity
@@ -17,8 +19,9 @@ THIS NEEDS FLESHING OUT – more clarity
 
 - Teams and Guilds have members
 
-- Entity and ITSystem’s have stakeholders.
-
+- Entity and ITSystem’s have stakeholders.  
+</p>
+&nbsp  
 
 <p>
 
