@@ -1,4 +1,3 @@
-<p>
 **Assignee**
 This would typically be used to assign work to an individual if jira is being used to track project work. For most of our Issue type ‘Assignee’ has no significance and will be hidden.
 
@@ -8,8 +7,6 @@ E.G. An Outcome with the status ‘Needs more details’ – Could be assigned t
 
 *Responsibilities*
 - Completing the assigned responsibility as a matter of priority  
-</p>  
 
-<p>
 **Reporter**
 The person who created the item. This has no other significance in our workflow and be hidden for most Issue Types.
