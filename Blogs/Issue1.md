@@ -1,3 +1,5 @@
+![image](Pictures/BlogIssue1.png)
+
 After 2 weeks of Glasswall starting to learn about and embrace the concept of squads in the work place in preparation for full adoption in the new year, a number of questions have been raised and some initial challenges discussed. I’ll be attempting to start a cadence of blogging about these to publicise our answers, conclusions, challenges, discussions and the overall journey into the world of Squads. Our implementation of Squads will be custom fit to our organisation and blend in concepts introduced by Wardley Maps, hence the blog title: Glasswall Squads and Maps.
 What Glasswall challenges does it solve?
 We’re hoping a lot of them! But to name a few specifics:
