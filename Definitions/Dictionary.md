@@ -20,7 +20,7 @@ THIS NEEDS FLESHING OUT – more clarity
 - Entity and ITSystem’s have stakeholders.
 
 
-
+<p>
 
 ***Squad Terms:***
 - Squads have - 
@@ -59,3 +59,4 @@ The beneficiary of the Outcome that is being worked on by the Squad
 - Providing requirements clarification when requested
 - Providing feedback on delivered Outcomes when requested
 
+</p>
