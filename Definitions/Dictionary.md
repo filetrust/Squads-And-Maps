@@ -15,17 +15,15 @@ They could either be discussed in a meeting, teams call, or just by comments on 
 - **Squad** - Vertical group of roles that deliver an outcome. A squad is cross-functional and constitutes all roles needed to deliver its outcomes end to end. 
 - **Team** - Horizontal group of people that have a common competency area. E.G. Cloud Dev, Core QA, SRE. This is your existing line management structure. 
 - **Tribe** - A collection of squads that cover the same business area. E.G. Glasswall Engine, SaaS
-- **takeholder** – someone who is invested in a thing. They should be consulted with or kept informed of progress and delivery.
+- **Stakeholder** – someone who is invested in a thing. They should be consulted with or kept informed of progress and delivery.
 - **Customer** - A client of the organisation or an internal customer. All sqauds should have customers/clients. These are the consumers of the delivered outcome. Who will use what is being delivered
 - **Member** - someone who actively participates in and contributes towards.​
 
+**Relationships**
+
 - Teams and Guilds have members
-
 - Entity and ITSystem’s have stakeholders.  
-</p>
-&nbsp  
 
-<p>
 
 ***Squad Terms:***
 - Squads have - 
