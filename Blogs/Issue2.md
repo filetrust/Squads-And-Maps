@@ -28,7 +28,7 @@ Dictionary of terms, understansing roles and responsibilities, explaining our wo
 
 ![image](Pictures/Dictionary.png)
 
-## Reference - wardelymapping
+### Reference - wardelymapping
 
 In Simon Wardely's table of doctrine principles he talks about a phase 1 of stopping destructive behaviour.
 
@@ -37,4 +37,6 @@ Use a common language (necessary for collaboration)
 Challenge assumptions (speak up and question)
 Focus on high situational awareness (understand what is being considered)
 
-Reference https://medium.com/wardleymaps/doctrine-8bb0015688e5 and https://learnwardleymapping.com/home/doctrine/
+References:
+- https://medium.com/wardleymaps/doctrine-8bb0015688e5
+- https://learnwardleymapping.com/home/doctrine/
