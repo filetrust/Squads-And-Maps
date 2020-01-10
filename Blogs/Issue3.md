@@ -49,8 +49,8 @@ Line Manager:
 
 ## Meetings and Deep work - Finding the balance
 
-Having recently read the book [Deep Work by Cal Newport](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905)
-The topic of deep was has been present in my thoughts as has it in other Glasswall staff. We a lot of new initiatives and ideas.
+Having recently read the book '[Deep Work by Cal Newport](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905)'
+the topic of deep was has been present in my thoughts as has it in other Glasswall staff. We a lot of new initiatives and ideas.
 New ways of working, squads and presentations and everything else. Alot of us find that our calendars are booked with meetings pretty 
 much all week, leaving very little time for uninterrupted focus. Something which is needed for delivering high quality outputs and 
 to come up with most cognitively intensive solutions. How do we fit this in with meetings jotted throughout morning and afternoon five
