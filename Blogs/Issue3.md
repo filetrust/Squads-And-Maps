@@ -47,3 +47,31 @@ Line Manager:
 - Conflict resolution for squad commitments.
 - Review each of your Team Members and make sure they are appropriately mapped.
 
+## Meetings and Deep work - Finding the balance
+
+Having recently read the book (Deep Work by Cal Newport)[https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905]
+The topic of deep was has been present in my thoughts as has it in other Glasswall staff. We a lot of new initiatives and ideas.
+New ways of working, squads and presentations and everything else. Alot of us find that our calendars are booked with meetings pretty 
+much all week, leaving very little time for uninterrupted focus. Something which is needed for delivering high quality outputs and 
+to come up with most cognitively intensive solutions. How do we fit this in with meetings jotted throughout morning and afternoon five
+days a weeek. And so we have a problem to solve.
+
+Challenge: Meetings occurring throughout the week can be distracting and prevent deep work and uninterrupted focus on delivering squad outcomes
+
+### Proposed Solution
+Have a schedule we we plan which days in the week most meetings will occur and which days we will do a best effort to keep them meeting free. Enabling days of high focus on outcome delivery. 
+This was presented to the company this week, it now open for disucssion, feedback, challenges and refinement. 
+We will look to finalize and make this official in the next few weeks.
+
+### Schedule
+Monday: Team meetings. Line management meetings. Squad Leader meeting.
+
+Tuesday and Thursday: Best effort meeting free days with Squad meetings being the exception. Stand ups, design sessions, decision meetings for squad outcomes only.
+
+Wednesday: Morning: Squad Work. 
+Afternoon: Training slots, Presentations, All hands meeting.
+
+Friday: Morning: Releases , Round up, Publications.
+Afternoon: Hackathons, testing, breaking, security validation. Play with weeks work and raise issues to be addressed the following week.
+
+
