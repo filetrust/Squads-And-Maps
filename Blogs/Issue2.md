@@ -33,9 +33,9 @@ Dictionary of terms, understanding roles and responsibilities, explaining our wo
 In Simon Wardely's table of doctrine principles he talks about a phase 1 of stopping destructive behaviour.
 
 The first part of this is Communication.
-Use a common language (necessary for collaboration)
-Challenge assumptions (speak up and question)
-Focus on high situational awareness (understand what is being considered)
+- Use a common language (necessary for collaboration)
+- Challenge assumptions (speak up and question)
+- Focus on high situational awareness (understand what is being considered)
 
 References:
 - https://medium.com/wardleymaps/doctrine-8bb0015688e5
