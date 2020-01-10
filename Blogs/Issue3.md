@@ -75,3 +75,9 @@ Friday: Morning: Releases , Round up, Publications.
 Afternoon: Hackathons, testing, breaking, security validation. Play with weeks work and raise issues to be addressed the following week.
 
 
+### Progress
+
+We now have an array of Issue types we can link together as we map our way through Squads.
+
+![image](Pictures/IssueTypes.png)
+
