@@ -35,13 +35,14 @@ We realised the need for a simpler way to address this and put the trust in our 
 
 Individual:
 - Manage their own time and squad commitments and contributions. 
+
 Squad Leader:
 - Negotiates with the individual how much time they will contribute to squad.
 - Ensures that their contributors are effectively delivering against their outcomes
 - Accountable for having the right roles and time commits in their squad
+
 Line Manager: 
-- Responsible for monitoring the health of each person. Not stretched too thin or task switching to much. 
-Has the right amount of squad contributions for the individual
+- Responsible for monitoring the health of each person. Not stretched too thin or task switching to much. Has the right amount of squad contributions for the individual
 - Squad contributions is aligned to their PDP, etc
 - Conflict resolution for squad commitments.
 - Review each of your Team Members and make sure they are appropriately mapped.
