@@ -22,13 +22,13 @@ my time commitment across multiple squads?
 ### A good question indeed and one desperate for an answer and a solution
 We iterated over how to deal with this. We tried to come up with a good way for people to manage their own time commits
 to different squads. We thought of using sub links between our Issues on Jira and see if we could an intermediary link between a 
-Person and the Sqauds they are mapped to, that included a time commitment measured in Hours Per Week. This was not going to work
-and required too much engineering in Jira. We then attempted using airtable as a store of everyones squad commitments and how many 
+Person and the Squads they are mapped to, that included a time commitment measured in Hours Per Week. This was not going to work
+and required too much engineering in Jira. We then attempted using Airtable as a store of everyone's squad commitments and how many 
 hours per week they were committing to each of their squads. This too was not a natural integration and a large amount of technical
 resistance was surfacing as we went down this path.
 
 We then realised that we over thinking and over engineering for a potential future problem that we did not yet have. We were 
-trying to create a way to specifically track and measure everyones time and an ove an over engineered approach at that.
+trying to create a way to specifically track and measure everyone's time and an over engineered approach at that.
 We realised the need for a simpler way to address this and put the trust in our people to manage it themselves.
 
 ### Proposal
@@ -51,16 +51,17 @@ Line Manager:
 
 Having recently read the book '[Deep Work by Cal Newport](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905)'
 the topic of deep work has been present in my thoughts as has it in other Glasswall staff. We a lot of new initiatives and ideas.
-New ways of working, squads and presentations and everything else. Alot of us find that our calendars are booked with meetings pretty 
+New ways of working, squads and presentations and everything else. A lot of us find that our calendars are booked with meetings pretty 
 much all week, leaving very little time for uninterrupted focus. Something which is needed for delivering high quality outputs and 
 to come up with most cognitively intensive solutions. How do we fit this in with meetings jotted throughout morning and afternoon five
-days a weeek. And so we have a problem to solve.
+days a week. And so we have a problem to solve.
 
-Challenge: Meetings occurring throughout the week can be distracting and prevent deep work and uninterrupted focus on delivering squad outcomes
+Challenge: Meetings occurring throughout the week can be 
+tracting and prevent deep work and uninterrupted focus on delivering squad outcomes
 
 ### Proposed Solution
 Have a schedule we we plan which days in the week most meetings will occur and which days we will do a best effort to keep them meeting free. Enabling days of high focus on outcome delivery. 
-This was presented to the company this week, it now open for disucssion, feedback, challenges and refinement. 
+This was presented to the company this week, it now open for discussion, feedback, challenges and refinement. 
 We will look to finalize and make this official in the next few weeks.
 
 ### Schedule
