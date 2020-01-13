@@ -5,7 +5,7 @@
 [slideshare - Glasswall 'Squads and Maps - Part 2'](https://www.slideshare.net/LukeRobbertse/glasswall-squads-and-maps-pt2-217174456)
 
 In this blog we cover two important topics and ones that have been discussed at length these past few weeks.
-Both topics are closley related and ultimately tackle the productivity issue presented by distraction and task switching. 
+Both topics are closely related and ultimately tackle the productivity issue presented by distraction and task switching. 
 
 ## Capacity Management
 
