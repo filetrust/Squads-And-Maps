@@ -1,4 +1,4 @@
-# Title: Capacity Management and Work/Meeting balance
+# Title: Capacity Management and Work/Meeting Balance
 
 ![image](Pictures/BlogIssue3.png)
 
