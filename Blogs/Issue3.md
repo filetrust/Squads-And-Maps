@@ -47,9 +47,12 @@ Line Manager:
 - Conflict resolution for squad commitments.
 - Review each of your Team Members and make sure they are appropriately mapped.
 
-The power in the above is that we are trusting people to manage their own time without tracking anyone's specific hours. This is a modern workplace and doing so empowers staff and is motivating to them. This also emphasises the important of line management in the squad model. Line managers know their people best and of their roles should be continuously reviewing their direct reports and guiding them to a healthy balance of commitments andaligning this to their professional development plans. It also plays into an important role of a squad leader which is teaching them to make the best use of the time they have available for their squad members. It is up to a squad leader to be prepared and organised and make the most of the 1 day in a week they might have of a designers time. Then to raise risk's when they feel the contribution of resources is not sufficient to making progress on delivering the outcome.
+The power in the above is that we are trusting people to manage their own time without tracking anyone's specific hours. This is a modern workplace and doing so empowers staff and is motivating to them. This also emphasises the important of line management in the squad model. Line managers know their people best and of their roles should be continuously reviewing their direct reports and guiding them to a healthy balance of commitments andaligning this to their professional development plans. It also plays into an important role of a squad leader which is teaching them to make the best use of the time they have available for their squad members. It is up to a squad leader to be prepared and organised and make the most of the 1 day in a week they might have of a designers time. Then to raise risk's when they feel the contribution of resources is not sufficient to making progress on delivering the outcome.   
+  
+<br/>
+    
+![image](Pictures/ReviewReport.png)   
 
-![image](Pictures/ReviewReport.png)
 
 ## Meetings and Deep work - Finding the balance
 
