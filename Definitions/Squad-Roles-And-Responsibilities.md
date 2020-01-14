@@ -5,7 +5,7 @@ An individual who provides leadership for the Squad Developers, acting as a sing
 - Ensuring Stakeholders are satisfied with the Outcomes implemented by the Squad
 - Providing Stakeholders with progress updates, to an agreed schedule
 - Ensuring Outcomes are sufficiently understood before work starts
-- Negioate resource availability for their squad
+- Negotiate resource availability for their squad
 - Ensuring squad has all the roles needed to deliver the outcomes end to end
 
 **Squad Stakeholder**
