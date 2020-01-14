@@ -10,7 +10,7 @@ Both topics are closely related and ultimately tackle the productivity issue pre
 ## Capacity Management
 
 Where previously an individual was a member of one team and teams were assigned work, at a high level it is clear what 
-work someone should be focusing their time one. We all know this is not reality but at face value it's simple enough. 
+scope of work someone should be focusing their time on. We all know this is not reality but at face value it's simple enough. 
 Now individuals can be a part of multiple squads, each squad working on a different outcome. We still have our team structure which
 aligns with our organisational chart and defines line management structure, very important. But work that is done is in the form 
 of a cross functional squad and we encourage staff to be involved as many squads as is suitable for them. Everyone is different, 
@@ -27,7 +27,7 @@ and required too much engineering in Jira. We then attempted using Airtable as a
 hours per week they were committing to each of their squads. This too was not a natural integration and a large amount of technical
 resistance was surfacing as we went down this path.
 
-We then realised that we over thinking and over engineering for a potential future problem that we did not yet have. We were 
+We then realised that we over thinking things for a potential future problem that we did not yet have. We were 
 trying to create a way to specifically track and measure everyone's time and an over engineered approach at that.
 We realised the need for a simpler way to address this and put the trust in our people to manage it themselves.
 
@@ -46,6 +46,10 @@ Line Manager:
 - Squad contributions is aligned to their PDP, etc
 - Conflict resolution for squad commitments.
 - Review each of your Team Members and make sure they are appropriately mapped.
+
+The power in the above is that we are trusting people to manage their own time without tracking anyone's specific hours. This is a modern workplace and doing so empowers staff and is motivating to them. This also emphasises the important of line management in the squad model. Line managers know their people best and of their roles should be continuously reviewing their direct reports and guiding them to a healthy balance of commitments andaligning this to their professional development plans. It also plays into an important role of a squad leader which is teaching them to make the best use of the time they have available for their squad members. It is up to a squad leader to be prepared and organised and make the most of the 1 day in a week they might have of a designers time. Then to raise risk's when they feel the contribution of resources is not sufficient to making progress on delivering the outcome.
+
+![image](Pictures/ReviewReport.png)
 
 ## Meetings and Deep work - Finding the balance
 
