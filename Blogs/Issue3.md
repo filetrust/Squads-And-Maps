@@ -43,9 +43,9 @@ It is the natural blend of the squad leaders accountablity for obtaining the app
 
 The squad leader has to be prepared and organised to make the most of the 1 day in a week they might have of a designers time - and this is a key learning exercise to be able to cut wastage and maximise productivity. And also to raise the issue when they feel the contribution of resources is not at a high enough level to make sufficient progress on delivering the outcome. Where the balance cannot be maintained is then a sign of overcommitment and whilst it will be a key feed into furture recruitment plans it also means we have to focus on what gives us the highest value at that time.  
   
-<br/>
+<br/>  
     
-![image](Pictures/ReviewReport.png)   
+![image](Pictures/ReviewReport.png)  
 
 
 ## Meetings and Deep work - Finding the balance
@@ -76,7 +76,7 @@ Friday: Morning: Releases , Round up, Publications.
 Afternoon: Hackathons, testing, breaking, security validation. Play with weeks work and raise issues to be addressed the following week.
 
 
-### Progress
+### Progress with our Model
 
 We now have an array of Issue types we can link together as we map our way through Squads.
 
