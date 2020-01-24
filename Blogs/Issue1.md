@@ -21,3 +21,10 @@ As 4 is my favourite number, I’ll answer one more of these questions now.
 
 ### How do we link Squads to business objectives?
 We will do this using what we call ‘Outcomes’. A squad, be it long running or short living, will have a delivery/target/objective/outcome. It may have many. The outcomes which are delivered by a squad is what ties to the value add and the business objectives. Outcomes are not long living, these should be small enough to be delivered in a timely manner and provide needed feedback loops. Outcomes can be broken down further into Key Results. The Key Results are the measurable part of an outcome. Achieving the key results mean the outcome has been delivered and the customer value is attained. I think another blog will follow to focus on how these outcomes are prioritised and assigned to squads, the status’s they can go through and the refinement around them. For now though, all stakeholders and squad members are able to propose outcomes they feel are needed. Key stakeholders will then review the merit of all outcomes, prioritise and align them with existing or new squads.
+
+## Squads and Maps Publications so far:
+[Issue 1 - Questions and Answers](https://medium.com/glasswall-engineering/glasswall-squads-and-maps-issue-1-questions-a5056b8c37c9)
+[Issue 2 - Common Language](https://medium.com/glasswall-engineering/slideshare-glasswall-squads-and-maps-part-2-e3b8b222b72f)
+[Issue 3 - Capacity Management and Work / Meeting Balance](https://medium.com/glasswall-engineering/glasswall-squads-and-maps-issue-3-capacity-management-and-work-meeting-balance-cd7660d15100)
+[Issue 4 - Using Jira tips and Squad communications]()
+
