@@ -32,7 +32,26 @@ We realised the need for a simpler way to address this and put the trust in our 
 Individual:
 - Manage their own time and squad commitments and contributions. 
 
+## Linking Issues
+It has been said that it is difficult to link issues. We intentionally have a large list of Issue Linking available with well thought Inward and Outward descriptions  select  from the list of  and difficult to link issues. A tip is to not start typing the first word in the link description. 'Is' or 'Has'.
+But rather type the key word in the description. 'Squad' or 'Role'. Type in the first box, and the list of options will be reduced to just what is related to that word in the link. 
+
+ADD PICTURE
+
 ## More details and links from Squad on Jira
+
+
+## Guilds - Work or Social?
+Question: 'Do Guilds need to be work related or could they be social?'
+
+If we refer back to our Common Language our [definition](https://github.com/filetrust/Squads-And-Maps/blob/master/Definitions/Dictionary.md) of a guild is:
+"A lightweight community of interest where people across the whole company gather and share knowledge of a specific area. Anyone can join or leave a Guild at any time. E.G: ‘React’, ‘Performance’"
+
+For me, its a community and its up to members of the community to drive discussions, sharing, lessons learnt, discovery of new tools and techniques. Etc. They can either schedule a monthly meetup, coffee, in or out of office activity. Or push out information on topics when they come across them. Sometimes event driven, but should probably being doing something atleast every month.
+Just to reiterate though, Guilds do not do any Glasswall specificwork. They dont work on tasks or outcomes or key results. They just share knowledge, have meaningful discussions, do Q+A sessioons, provide references, share experiences.
+
+Back to the question - I think they should definately be work related and social! I actually think that a social guild is more likely to get some traction and activity which teach and encourage the work topic related guilds how to operate and be effective. 
+The first two prosed social guilds are: 'Tabletop Games' and 'Drinking'.
 
 ## New name to replace Squad Developer?
 
