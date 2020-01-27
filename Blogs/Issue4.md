@@ -76,7 +76,7 @@ The first two prosed social guilds are: 'Tabletop Games' and 'Drinking' :)
   
 ## A new name to replace Squad Developer?
 And finally, I would like to open this question up to everyone to feedback and come to the best answer.
-We have defined [3 types of contributors so a Squad:](https://github.com/filetrust/Squads-And-Maps/blob/master/Definitions/Squad-Roles-And-Responsibilities.md)
+We have defined [3 types of contributors to a Squad:](https://github.com/filetrust/Squads-And-Maps/blob/master/Definitions/Squad-Roles-And-Responsibilities.md)
 - Squad Leader
 - Squad Developer
 - Squad Stakeholder
