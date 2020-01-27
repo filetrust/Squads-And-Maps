@@ -2,7 +2,7 @@
 
 ![image](Pictures/BlogIssue4.png)
 
-Today we go over where we communicate about our squad work. A tip or two on using Jira.And a naming issue I'd like as much
+Today we go over where we communicate about our squad work. A few tips on making better use of Jira. And a naming issue I'd like as much
 feedback from everyone on to improve.
 
 ## When to communicate on Jira or Slack/Teams
