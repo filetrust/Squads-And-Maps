@@ -16,7 +16,7 @@ My reply was then refined and improved by the person who asked the question, tha
 Jira should be used for capturing comms related to a specific squad / outcome or key result. Commenting on Issues in Jira means a conversation is attached to that specific Issue.
 Slack is used for general organisation (including setting squad meetings :face_with_raised_eyebrow:), collaboration, discussions and some Q+A. Where there is specific dialogue that adds content and context to a Squad or Outcome, that should be captured as a comment on the Jira Issue.'
 
-## Changing a Issue type on Jira - 'Move'
+## Changing an Issue type on Jira - 'Move'
 Challenge: 'I have create a Key Result (Type of issue we have on Jira), but it is not a Key Result and should be an Outcome (another issue type). There is no way to change it so I have to re-create it which is duplicated effort and now we have issues that need deleting.'
 
 Solution: You can infact change an Issue on Jira from one type to another, though doing so is not so obvious to new users. The button that does this is called 'move'.
@@ -31,7 +31,7 @@ Solution: You can infact change an Issue on Jira from one type to another, thoug
 
 ## Watching and Assigning Issues
 ### Watch
-Challenge: 'I don't know when new updates or changes occur to a Squad or to an Ouccome.
+Challenge: 'I don't know when new updates or changes occur to a Squad or to an Ouccome.  
 Solution: 'Click the watch icon on that Issue.
 
 ![image](Pictures/WatchIssueButton.png)
