@@ -1,13 +1,13 @@
 <p>
 	
-- **Clients** – A customer or client of Glasswall.
-- **Decision** – This is where the required stakeholder can provide context and then vote on a chosen decision. It is quite a generic issue type at the moment and can be linked to any other issue type. E.G. An Outcome or a Key Result.
+- **Client** – A consumer of a delivered outcome, typically a customer of Glasswall.
+- **Decision** – This is where the required stakeholder can provide context and then vote on a chosen decision. It is quite a generic issue type at the moment and can be linked to any other issue type. For example, an Outcome or a Key Result.
 I think the people voting on the decision would be the stakeholders and maybe some of the squad contributors. Depending on the context, what the decision is about and what it is attached to. 
-Its recorded on the decision issue itself in Jira. Theres no specific format for that yet, people can vote by comment or editing the description. As long as their decision is attached to their name.
-They could either be discussed in a meeting, teams call, or just by comments on the decision issue.
-- **Guild** - A lightweight community of interest where people across the whole company gather and share knowledge of a specific area. Anyone can join or leave a Guild at any time. E.G: ‘React’, ‘Performance’
-- **IT System** – A system or platform which staff use and have accounts on. These systems are owned and managed by our IT team. E.G: ‘Jira’, ‘GitHub’
-- **Key Result** - Measurable deliveries. An outcome would be broken down into specific and measurable key results.
+It's recorded on the decision issue itself in Jira. There's no specific format for that yet, people can vote by comment or editing the description. As long as their decision is attached to their name.
+They could be either discussed in a meeting, teams call, or just by comments on the decision issue.
+- **Guild** - A lightweight community of interest where people across the whole company gather and share knowledge of a specific area. Anyone can join or leave a Guild at any time. For example, ‘React’, ‘Performance’
+- **IT System** – A system or platform which staff use and have accounts on. These systems are owned and managed by our IT team. For example, ‘Jira’, ‘GitHub’
+- **Key Result** - Measurable deliveries. An outcome would be broken down into specific and measurable Key Results.
 - **Outcome** - Short term objective of a squad.
 - **Person** – A person.
 - **Policies** – Organisational policies. 
@@ -22,12 +22,12 @@ They could either be discussed in a meeting, teams call, or just by comments on 
 **Relationships**
 
 - Teams and Guilds have members
-- Entity and ITSystem’s have stakeholders.  
+- Entity and IT Systems have stakeholders.  
 
 
 ***Squad Terms:***
 - Squads have - 
-squad developers ; squad stakeholders ; squad leader ; customers
+squad developers; squad stakeholders; squad leader; customers
 
 **Squad Leader**
 An individual who provides leadership for the Squad Developers, acting as a single point of contact for the Squad. This person is ultimately accountable for the Squad achieving its Outcomes. They do not manage the members of the squad but lead them on the path to delivery
@@ -36,18 +36,18 @@ An individual who provides leadership for the Squad Developers, acting as a sing
 - Ensuring Stakeholders are satisfied with the Outcomes implemented by the Squad
 - Providing Stakeholders with progress updates, to an agreed schedule
 - Ensuring Outcomes are sufficiently understood before work starts
-- Negioate resource availability for their squad
+- Negotiate resource availability for their squad
 - Ensuring squad has all the roles needed to deliver the outcomes end to end
 
 **Squad Stakeholder**
-An individual who has a vested interest in the completion of the Squad's Outcomes. This person might need to be consulted with or informed of progresss and outcome delivery. A Squad Stakeholder should have time available each week to contribute to the squad (approx 1hr pw)
+An individual who has a vested interest in the completion of the Squad's Outcomes. This person might need to be consulted with or informed of progresss and outcome delivery. A Squad Stakeholder should have time available each week to contribute to the squad (approximately one hour).
 
 *Responsibilities*
 - Providing a definition of Outcomes
 - Providing sign-off for completed Outcomes
 	
 **Squad Developer**
-A member of the squad who is executing Tasks that contribute to fulfilling the squad's Outcome. The Squad Developers within a Squad will have a range of capabilities in order to complete the Tasks required by the Outcome to be delivered by the Squad e.g. Software Engineer, Tester, Network Engineer, SRE, Support, Design, Product etc.
+A member of the squad who is executing Tasks that contribute to fulfilling the squad's Outcome. The Squad Developers within a Squad will have a range of capabilities in order to complete the Tasks required by the Outcome to be delivered by the Squad, e.g., Software Engineer, Tester, Network Engineer, SRE, Support, Design, Product, etc.
 
 *Responsibilities*
 - Working with other Squad members to break Outcomes into actionable work items
