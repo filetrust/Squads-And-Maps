@@ -2,7 +2,8 @@
 
 ![image](Pictures/BlogIssue5.png)
 
-Personal Objectives for our staff and linking them to Organisation Goals and Technology Goals.
+I think its important to recap who we are. Then we'll be diving into how we can capture our organisation and technology goals and link those to our staff's personal objectives. Ending with a snippet that covers on-boarding new starters through our Squads and Maps model.
+
 
 ## Lets start with who we, Glasswall, are as an Organisation
 
