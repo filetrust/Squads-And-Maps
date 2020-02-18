@@ -44,8 +44,11 @@ Linking it all together
 
 ## Onboarding - Tracking this on Jira
 
-Onboarding Squad - Squad Developrs - Outcomes and KRs - Linking peoples effort and time spent on Jira.
+With following our Squad model and wanting to provide the best experience onboarding new staff members, we have created the Onboarding squad. This allows us to track the effort of new staff members during their first few weeks or month. Whilst providing them the best chance of success through their probabtion period. Key individuals from different parts of the organisaiton will temporarily join the squad in order to provide information around products, process and vairious domain knowledge. The standard HR and IT onboarding will occur, along with a customised onboarding plan based on team the new member i
 
+![image](Pictures/Onboarding.png)
+
+![image](Pictures/OnboardingKRs.png)
 
 <br/>  
 
